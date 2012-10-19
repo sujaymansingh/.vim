@@ -16,5 +16,5 @@
 :filetype plugin on     " enables filetype specific plugins
 
 :set runtimepath+=~/.vim/vim-addon-manager
-"call vam#ActivateAddons(['github:kevinw/pyflakes-vim'], {'auto_install' : 0})
+call vam#ActivateAddons(['github:kevinw/pyflakes-vim'], {'auto_install' : 0})
 "call vam#ActivateAddons(['vim-addon-syntax-checker'], {'auto_install' : 0})
