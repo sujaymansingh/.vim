@@ -16,3 +16,9 @@ syntax on
 :set hls
 :set nu
 :set ru
+
+" Force myself to use HJKL
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
