@@ -12,3 +12,4 @@ $ ln -s ~/.vim/vimrc .vimrc
 
 - [Pathogen setup](https://gist.github.com/romainl/9970697)
 - [Syntastic](https://github.com/vim-syntastic/syntastic#222-step-2-install-syntastic-as-a-pathogen-bundle)
+- [VIM-Elixir](https://github.com/elixir-lang/vim-elixir#plugin-managers)
